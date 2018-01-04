@@ -1,0 +1,23 @@
+{
+  "name": "js-tdd-course",
+  "version": "1.0.0",
+  "description": "biblioteca do curso js com tdd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablosoares/js-tdd-course.git"
+  },
+  "keywords": [
+    "js",
+    "tdd"
+  ],
+  "author": "Pablo Soares <pablo_soares93@hotmail.com> (http://gregsoares.com.br/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pablosoares/js-tdd-course/issues"
+  },
+  "homepage": "https://github.com/pablosoares/js-tdd-course#readme"
+}
